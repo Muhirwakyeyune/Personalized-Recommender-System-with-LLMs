@@ -1,0 +1,377 @@
+id,type,name,category,industries,geo_reach,market_demand,sales_volume,brand_reputation
+pro001,product,product ingredient sourcing,processing,"outsourcing/offshoring, ranching","north korea, belize, united arab emirates, south africa, djibouti",high,high,low
+pro003,product,legal compliance software,cultivation,pet services,"maldives, palestinian territory occupied, ethiopia, brazil, nicaragua",low,high,high
+pro005,product,product branding,processing,"reit - diversified, forestry and logging",suriname,high,low,low
+serv008,service,market expansion strategy,marketing,"web development, fuel cell manufacturing, insurance carriers","cameroon, brunei, bosnia and herzegovina",high,medium,low
+serv010,service,marketing agency,technology,"auto and truck dealerships, aluminum","saudi arabia, eswatini, liechtenstein, mayotte, nauru",high,high,low
+serv012,service,healthcare services,processing,"investment advice, gambling","saint lucia, bolivia, greece",low,low,low
+serv014,service,compliance services,medical,"semiconductor equipment and materials, electronics",saint pierre and miquelon,low,high,low
+pro015,product,technology patents,education,"reit - hotel and motel, financial conglomerates","british indian ocean territory, south africa, kiribati, micronesia, mozambique, panama",high,medium,low
+pro017,product,seed genetics research,compliance,"office administration, furnishings fixtures and appliances","micronesia, poland, sweden, algeria, zambia, chile",low,medium,high
+pro019,product,health and wellness products,cultivation,"food and beverages, reit - healthcare facilities, coal mining","saudi arabia, morocco, cocos (keeling) islands, libya",low,low,medium
+serv022,service,legal dispute resolution,medical,"pharmaceutical manufacturing, packaged foods, it system installation and disposal","peru, north korea",high,high,medium
+pro023,product,product testing,compliance,"travel, nonprofit organization management","burkina faso, tanzania",medium,high,low
+pro025,product,retail merchandising,retail,haulage,"togo, ecuador, andorra, equatorial guinea",medium,high,high
+serv028,service,financial services,medical,"courts of law, online media","eswatini, georgia, lebanon, british indian ocean territory, new caledonia",low,low,low
+serv030,service,trade association,processing,pension funds,"aland islands, qatar, syria, sweden",high,medium,high
+serv032,service,real estate services,marketing,"electric power transmission, control and distribution, electrical and electronic manufacturing, think tanks","moldova, south sudan, new zealand",low,high,medium
+pro033,product,seed genetics research,marketing,"wholesale lumber, supply chain, government relations","aruba, sint maarten (dutch part)",low,low,medium
+serv036,service,quality control,marketing,household appliance manufacturing,"sao tome and principe, ghana, gambia the, united arab emirates, turks and caicos islands",medium,medium,medium
+serv038,service,environmental sustainability,education,"theater, cleaning","saint helena, guernsey and alderney, venezuela, haiti, ukraine",low,low,medium
+serv040,service,retail analytics,medical,ground passenger transportation,"south georgia, marshall islands, guatemala, portugal",low,medium,medium
+pro041,product,consumer product reviews,marketing,specialty chemicals,"czech republic, romania, angola, bhutan, guyana, kyrgyzstan",high,medium,medium
+pro043,product,cbd product manufacturing,retail,"radio and television broadcasting, construction hardware manufacturing","netherlands, guinea-bissau, vatican city state (holy see), liberia, ghana, zambia",medium,low,high
+serv046,service,retail analytics,education,"wine and spirits, advertising services",netherlands,medium,high,medium
+serv048,service,advocacy campaign management,accessories,"aviation and aerospace component manufacturing, utilities - regulated gas","eswatini, united states minor outlying islands",medium,medium,medium
+serv050,service,logistics and transportation,processing,scientific research services,norfolk island,high,low,high
+serv052,service,waste management solutions,education,"market research, printing","montenegro, san marino, libya, djibouti, burkina faso, georgia",medium,low,medium
+pro053,product,cbd product manufacturing,recreational,press and media,australia,low,high,high
+serv056,service,transportation solutions,medical,"audio and video equipment manufacturing, holding companies, financial conglomerates",nauru,low,medium,medium
+pro057,product,product ingredient sourcing,medical,"industrial metals and minerals, medical distribution","south sudan, syria, chile, haiti, japan, tokelau",low,low,low
+pro059,product,product innovation labs,technology,"health and human services, shoes manufacturing","eritrea, bhutan, taiwan, rwanda",high,medium,high
+serv062,service,financial services,recreational,"physicians, automotive","united arab emirates, saint vincent and the grenadines, ireland, french guiana",medium,medium,high
+pro063,product,health and wellness products,cultivation,"chemical, non-profit organizations, computer software","yemen, angola, luxembourg, gibraltar, papua new guinea, el salvador",low,high,high
+pro065,product,product supply chain transparency,cultivation,venture capital,"namibia, botswana, tajikistan, nigeria",medium,high,medium
+serv068,service,data analytics,education,"audio and video equipment manufacturing, wholesale food and beverage","saint-martin (french part), gibraltar, montenegro",medium,medium,medium
+serv070,service,industry analytics,medical,"oil and gas refining and marketing, toys","cura\u00e7ao, cocos (keeling) islands, argentina",high,high,high
+pro071,product,product certification,technology,"television and video production, government relationship services","morocco, bolivia",low,medium,medium
+serv074,service,industry training programs,technology,"physical, occupational and speech therapists","united kingdom, sri lanka, papua new guinea, venezuela",medium,medium,high
+serv076,service,financial services,marketing,"animation and post-production, nonmetallic mineral mining, plastics and rubber product manufacturing","guyana, sao tome and principe, sierra leone, mali, new caledonia",low,high,medium
+pro077,product,legal compliance software,compliance,fossil fuel electric power generation,gambia the,high,low,medium
+serv080,service,industry analytics,processing,"video production, footwear and leather goods repair, scientific and technical instruments","french polynesia, turkmenistan",medium,low,medium
+serv082,service,retail customer loyalty programs,cultivation,nanotechnology research,"yemen, mayotte, nicaragua, gabon, saint vincent and the grenadines",low,low,medium
+pro083,product,retail merchandising,medical,"radio and television broadcasting, textile manufacturing, data security software products","niger, faroe islands",high,low,high
+pro085,product,technology patents,cultivation,"logistics and supply chain, public relations and communications services",man (isle of),low,medium,high
+pro087,product,product compliance auditing,medical,sports and athletic,rwanda,high,low,medium
+serv090,service,supply chain management,medical,"sporting goods, engines and power transmission equipment manufacturing","vietnam, tuvalu, fiji islands",high,medium,medium
+pro091,product,product ingredient sourcing,accessories,"business content, oil and energy","iraq, denmark, montserrat, kosovo, slovenia",medium,medium,high
+pro093,product,retail merchandising,cultivation,"service learning and volunteer, nonmetallic mineral mining","senegal, congo, cocos (keeling) islands, american samoa",high,medium,high
+pro095,product,trade publication,education,energy,"poland, thailand, panama, moldova, australia, fiji islands",medium,high,high
+pro097,product,extraction and processing,marketing,"public safety, retail trade","finland, kuwait, american samoa, slovakia, vanuatu",high,low,low
+pro099,product,seed genetics research,cultivation,"copper, steel","sierra leone, djibouti, portugal",low,low,medium
+pro101,product,retail merchandising,accessories,wedding planning,"denmark, the bahamas, venezuela",low,low,high
+pro103,product,health and wellness products,marketing,"wood products, chemical manufacturing","bangladesh, slovenia, faroe islands, senegal, greenland, south georgia",low,low,low
+pro105,product,product testing,recreational,"chemical manufacturing, residential building construction, auto and truck dealerships","china, maldives",low,high,low
+serv108,service,insurance underwriting,marketing,"salvage and demolition, textile product mills, laundry","pakistan, malawi, tanzania, congo",low,medium,low
+serv110,service,social media management,education,shipping,"democratic republic of the congo, vietnam, malawi",medium,high,low
+pro111,product,farming equipment,recreational,"medical devices, home health care services",georgia,high,low,high
+serv114,service,consulting services,technology,"laundry and drycleaning services, publishing","panama, argentina, virgin islands (us), kiribati, belgium, uruguay",high,low,medium
+serv116,service,legal compliance training,marketing,"language schools, public policy offices, wholesale consumer electronics","timor-leste, malta, south sudan, guam",high,low,medium
+serv118,service,compliance auditing,marketing,"luxury goods and jewelry, equipment rental services, urban planning","south korea, kazakhstan, slovenia",high,medium,high
+serv120,service,industry leadership development,cultivation,"philanthropic fundraising services, toys, personal care","timor-leste, tokelau, finland, gambia the",medium,medium,medium
+serv122,service,consumer research,accessories,nonprofit organization management,"kyrgyzstan, south sudan",low,low,medium
+serv124,service,wholesale distribution,marketing,"storage, retail apparel and fashion, steel","jamaica, ireland",medium,medium,medium
+serv126,service,consumer research,processing,"operations consulting, security and protection services, museums","haiti, jordan",low,medium,medium
+serv128,service,compliance auditing,technology,"aerospace and defense, social media","fiji islands, serbia",medium,medium,medium
+serv130,service,retail customer loyalty programs,education,"electronics and computer distribution, government relationship services, broadcasting - tv","benin, saint kitts and nevis, aruba",low,medium,high
+serv132,service,blockchain technology,recreational,"capital markets, building structure and exterior contractors","zambia, guyana, france, trinidad and tobago",high,high,high
+pro133,product,cbd product manufacturing,retail,household institutional furniture manufacturing,"greece, nicaragua, chile, american samoa, senegal, canada",low,low,high
+serv136,service,market forecasting,education,"ground passenger transportation, insurance carriers, medical and diagnostic laboratories","equatorial guinea, guatemala, hong kong s.a.r., poland",medium,medium,high
+pro137,product,product innovation,technology,"paper and paper products, specialty business services",reunion,low,medium,medium
+serv140,service,tourism services,recreational,"interior design, internet content and information","france, british indian ocean territory",medium,high,high
+pro141,product,product recycling programs,cultivation,cosmetics,"serbia, norway, bangladesh",high,medium,low
+pro143,product,trade publication,marketing,"holding companies, office furniture and fixtures manufacturing","sint maarten (dutch part), romania, cura\u00e7ao, uruguay",high,high,high
+serv146,service,consumer safety programs,accessories,"real estate - diversified, interurban and rural bus service, wholesale food and beverage","bosnia and herzegovina, tonga, cape verde, argentina",low,low,high
+serv148,service,event planning,technology,"higher education, ambulance services, restaurants","saudi arabia, switzerland, aland islands",high,medium,low
+serv150,service,medical research,retail,"video and photography equipment repair, fire protection","switzerland, belgium, myanmar",low,medium,low
+pro151,product,cbd product manufacturing,accessories,e-learning,"venezuela, panama, estonia",medium,high,medium
+serv154,service,data analytics,retail,"golf courses and country clubs, luxury goods","france, gabon",high,low,medium
+serv156,service,public relations,marketing,salvage and demolition,"finland, benin",medium,high,medium
+pro157,product,retail merchandising,marketing,public policy,montserrat,high,high,high
+pro159,product,cbd product manufacturing,recreational,"engineering and construction, software - infrastructure, electrical equipment and parts","new zealand, cape verde, brazil, andorra, samoa",high,medium,medium
+serv162,service,customer support services,recreational,hydroelectric power generation,"british indian ocean territory, spain, dominican republic, hungary",high,medium,high
+serv164,service,workforce diversity initiatives,processing,"fashion and beauty, performing arts, engineering and construction","saint-martin (french part), wallis and futuna islands",medium,high,low
+pro165,product,product branding,cultivation,transit and ground passenger transportation,"western sahara, ireland, yemen",low,high,low
+pro167,product,extraction and processing,medical,"artists and writers, dairy, electronic and precision equipment maintenance",tajikistan,low,medium,high
+serv170,service,industry networking,retail,"specialty chemicals, child day care services, agriculture","mozambique, central african republic, andorra, new zealand",medium,medium,low
+pro171,product,trade publication,recreational,credit services,"puerto rico, french polynesia, martinique, cape verde",high,low,high
+serv174,service,financial services,accessories,"broadcasting - radio, medical practices","papua new guinea, indonesia",high,medium,high
+serv176,service,legal dispute resolution,recreational,freight and package transportation,"angola, burundi, iraq, armenia, sint maarten (dutch part), french guiana",medium,high,low
+serv178,service,legal dispute resolution,accessories,"solar, retail","eswatini, india, brazil, united states minor outlying islands",high,medium,low
+serv180,service,waste management solutions,accessories,equipment rental services,"bangladesh, united kingdom",low,low,low
+pro181,product,product supply chain transparency,accessories,"real estate services, individual and family services, medical devices","sweden, saint-barthelemy",low,medium,high
+serv184,service,educational content creation,recreational,"digital accessibility services, building products and equipment","kosovo, the bahamas, grenada, cuba",low,low,low
+pro185,product,retail pos systems,recreational,"banks - regional - us, storage facilities, computer systems","togo, dominican republic, iceland",low,high,low
+serv188,service,advocacy organization,cultivation,"auto and truck dealerships, gaming","belarus, guinea-bissau, greenland",high,high,low
+pro189,product,product innovation,education,copper,"kuwait, fiji islands, thailand, aruba",medium,medium,high
+serv192,service,consumer rights protection,processing,solar electric power generation,"croatia, mauritania",low,low,medium
+pro193,product,product innovation labs,retail,"banks - global, sports organizations","china, guyana",high,low,medium
+serv196,service,educational outreach,processing,"semiconductor manufacturing, wireless, digital accessibility services","hong kong s.a.r., antigua and barbuda, japan, montserrat, south georgia",low,medium,low
+serv198,service,investment firm,cultivation,collective agencies,"brazil, kosovo, jamaica, palau",medium,low,low
+pro199,product,product innovation labs,accessories,"specialty industrial machinery, lodging, integrated freight and logistics","aruba, belarus, vanuatu",low,medium,low
+serv202,service,data analytics,medical,"drug manufacturers - specialty and generic, engineering and construction",india,low,medium,medium
+pro203,product,product supply chain transparency,accessories,"desktop computing software products, digital accessibility services",mozambique,low,medium,medium
+serv206,service,consumer research,accessories,"retail sporting goods, warehousing","sierra leone, british indian ocean territory, ecuador",medium,medium,low
+serv208,service,market research,retail,"pollution and treatment controls, asset management","turkey, brazil",medium,medium,medium
+pro209,product,product safety testing,medical,"recreational facilities and services, aviation","comoros, aland islands, marshall islands, chile, norfolk island",medium,medium,low
+serv212,service,financial forecasting,marketing,retail technology,"svalbard and jan mayen islands, gambia the, mongolia",high,low,low
+pro213,product,consumer product reviews,processing,"biotechnology research, movies, video and sound","czech republic, namibia, mauritania, british indian ocean territory, slovenia",medium,low,medium
+serv216,service,market forecasting,technology,gambling and casinos,"marshall islands, mayotte, hong kong s.a.r.",low,low,medium
+serv218,service,market entry strategy,technology,"audio and video equipment manufacturing, fashion and beauty, reit - office","congo, samoa, north macedonia, french southern territories, guatemala",low,low,high
+pro219,product,product compliance auditing,medical,internet content and information,barbados,low,medium,medium
+serv222,service,community engagement,processing,lodging,malawi,high,high,low
+pro223,product,product ingredient sourcing,compliance,nanotechnology research,"pakistan, cuba, italy, reunion, british indian ocean territory, gabon",low,high,medium
+pro225,product,legal compliance software,marketing,retail,"belarus, indonesia",low,low,low
+serv228,service,tourism services,marketing,"housing and community development, banks - regional - us, furniture and home furnishings manufacturing","netherlands, bahrain, angola, svalbard and jan mayen islands, malaysia, monaco",high,high,high
+serv230,service,financial forecasting,medical,water supply and irrigation,"northern mariana islands, pitcairn island",high,low,high
+serv232,service,insurance underwriting,technology,thermal coal,"nauru, iraq, eswatini, china, saint kitts and nevis",medium,low,high
+pro233,product,farming equipment,technology,"recreational facilities and services, residential construction","kiribati, sierra leone, italy, maldives, chile",low,high,medium
+serv236,service,educational seminars,processing,"retail sporting goods, hydroelectric power generation, furnishings fixtures and appliances","svalbard and jan mayen islands, chile, laos",high,high,low
+serv238,service,community outreach,marketing,railroad manufacture,seychelles,high,high,high
+serv240,service,advocacy campaign management,accessories,"executive search services, fashion, security","cote d'ivoire (ivory coast), chile, morocco, christmas island, germany",medium,medium,high
+serv242,service,compliance services,cultivation,trade shows,"malawi, italy, reunion, aland islands, austria",high,low,medium
+pro243,product,product certification,retail,"lumber and wood production, electronic and precision equipment maintenance, alternative medicine","rwanda, romania",medium,high,medium
+pro245,product,product compliance auditing,education,biotechnology,"angola, zimbabwe, iraq",high,high,medium
+pro247,product,product ingredient sourcing,retail,"residential mental health, medical distribution, beverages - non-alcoholic","zambia, lithuania, cyprus",high,high,low
+pro249,product,seed genetics research,marketing,"shell companies, solar, physicians","bolivia, belarus, eritrea, congo, slovenia",medium,low,medium
+serv252,service,insurance services,accessories,renewables and environment,"saint helena, philippines, jersey",medium,low,high
+serv254,service,wholesale distribution,marketing,"waste management, reit - hotel and motel","colombia, cameroon, iraq",medium,medium,high
+serv256,service,venture capital funding,technology,"holding companies, fashion, screenwriters","mayotte, jersey, samoa, dominican republic, virgin islands (british)",low,low,low
+serv258,service,wholesale distribution,compliance,industry associates,"romania, cote d'ivoire (ivory coast), cyprus",high,low,high
+pro259,product,product compliance auditing,recreational,"forestry and logging, mobile food services, storage","liechtenstein, slovenia",medium,low,medium
+pro261,product,seed genetics research,retail,"chiropractors, commercial and industrial equipment rental","eswatini, saint helena, kosovo, bonaire, sint eustatius and saba, fiji islands",medium,high,medium
+serv264,service,security services,recreational,"wholesale jewelry, agriculture, construction, mining machinery manufacturing, diversified industrials","gambia the, north korea",medium,low,medium
+serv266,service,venture capital funding,technology,"professional training, equipment","guernsey and alderney, moldova, namibia",medium,medium,high
+serv268,service,sustainability initiatives,medical,"sanitation services, outsourcing/offshoring","saint pierre and miquelon, netherlands",medium,high,high
+pro269,product,product supply chain transparency,processing,writers,"peru, czech republic, svalbard and jan mayen islands, united states",medium,medium,low
+serv272,service,industry event sponsorship,recreational,"home improvement retail, oil, gas and mining, defense","denmark, south sudan",low,medium,high
+pro273,product,product certification,retail,computer software,"falkland islands, el salvador, italy, gambia the, north macedonia, singapore",low,medium,high
+serv276,service,consumer safety programs,technology,"public relations, physical, occupational and speech therapists","australia, zambia, northern mariana islands, burundi, saint-martin (french part), aland islands",low,high,low
+serv278,service,public health initiatives,medical,"tutoring, shipping","iran, bangladesh",low,high,low
+serv280,service,retail inventory management,education,"apparel stores, rental and leasing services","malta, libya, belgium",medium,medium,low
+pro281,product,product design,cultivation,"fossil fuel electric power generation, reit - specialty","south africa, guernsey and alderney, algeria, ecuador, australia",high,medium,low
+pro283,product,cbd product manufacturing,accessories,"fabricated metal products, storage",dominica,high,low,high
+serv286,service,distribution network,processing,"glass product manufacturing, museums","luxembourg, saint vincent and the grenadines, western sahara",medium,high,low
+serv288,service,testing laboratories,medical,"rubber product manufacturing, travel and hospitality","eritrea, maldives, san marino, macau s.a.r., armenia, grenada",high,medium,medium
+pro289,product,health and wellness products,education,"blockchain services, rail transportation","lebanon, peru",medium,high,medium
+pro291,product,packaging solutions,marketing,"travel and hospitality, recreational facilities and services, political organization",equatorial guinea,medium,low,low
+serv294,service,tourism services,processing,oil and gas refining and marketing,"bulgaria, chad, kenya",medium,low,high
+pro295,product,product certification,processing,thermal coal,"martinique, montserrat, timor-leste, benin, madagascar, comoros",high,low,high
+pro297,product,trade publication,processing,"leather product manufacturing, management consulting, infrastructure operations","greenland, new zealand, greece, bermuda, north korea, zimbabwe",low,high,medium
+pro299,product,product ingredient sourcing,marketing,"savings institutions, web development, airlines/aviation","man (isle of), australia",high,medium,medium
+pro301,product,trade publication,education,"professional training and coaching, newspapers, plumbing",afghanistan,high,high,high
+pro303,product,product supply chain transparency,compliance,"motor vehicle manufacturing, commercial real estate, oil and gas drilling","dominica, gibraltar, sweden, india, azerbaijan, czech republic",low,low,low
+serv306,service,workforce training,accessories,"banks - diversified, pet services","cameroon, saint kitts and nevis, turkey, andorra",high,medium,medium
+pro307,product,product innovation labs,cultivation,"taxi and limousine service, movies and sound recording","albania, canada",medium,medium,low
+pro309,product,product innovation,retail,"industrial automation, auto and truck dealerships","belize, trinidad and tobago",medium,medium,low
+serv312,service,educational content creation,education,"retail trade, public health","saudi arabia, cuba, venezuela, saint-barthelemy",high,high,medium
+serv314,service,blockchain solutions,processing,waste treatment,poland,low,high,medium
+serv316,service,legal compliance training,retail,salvage and demolition,"switzerland, azerbaijan, finland",high,medium,low
+serv318,service,social media management,recreational,"metals, funds and trusts","serbia, kazakhstan",medium,low,high
+serv320,service,retail inventory management,retail,"machinery, electronic gaming and multimedia",japan,high,high,medium
+serv322,service,legal representation,cultivation,"communications equipment manufacturing, rubber product manufacturing","nepal, philippines",low,medium,high
+pro323,product,packaging solutions,compliance,"insurance carriers, artificial rubber and synthetic fiber manufacturing","belgium, el salvador, tuvalu, seychelles, bermuda",low,low,high
+pro325,product,extraction and processing,education,press and media,"azerbaijan, lebanon, gabon, burundi, trinidad and tobago, saint helena",low,low,high
+pro327,product,extraction and processing,marketing,"health and human services, apparel and fashion","reunion, nigeria, south georgia, palau, indonesia, heard island and mcdonald islands",high,low,high
+serv330,service,legal advocacy,accessories,railroads,"azerbaijan, aland islands, italy",low,high,low
+serv332,service,advertising solutions,marketing,"banks - diversified, seafood product preparation and packaging, agriculture chemical manufacturing","el salvador, cameroon, albania, mozambique, djibouti, mauritius",medium,low,high
+pro333,product,product development,cultivation,"translation and localization services, aluminum, metal treatments","saint vincent and the grenadines, senegal, haiti, palau, bosnia and herzegovina, bouvet island",high,low,medium
+pro335,product,product ingredient sourcing,cultivation,"civil engineering, executive search services, lighting","anguilla, ethiopia, iraq",medium,low,high
+serv338,service,market entry strategy,cultivation,fisheries,bulgaria,high,medium,medium
+serv340,service,industry event sponsorship,compliance,personal and laundry services,"barbados, syria",medium,medium,high
+pro341,product,product testing,compliance,"computer games, shoes manufacturing","bulgaria, north macedonia, jersey, sudan, gabon, turkey",medium,high,high
+serv344,service,financial forecasting,retail,"leisure and entertainment, pharmaceutical retailers","brunei, saint pierre and miquelon, virgin islands (us), jersey, botswana, serbia",low,medium,low
+pro345,product,packaging solutions,education,"automation machinery manufacturing, air, water and waste program management, automation","namibia, czech republic, vatican city state (holy see)",low,medium,low
+pro347,product,product ingredient sourcing,education,"professional training, airlines and aviation, industrial machinery manufacturing","morocco, guam, malawi",high,low,low
+pro349,product,product supply chain transparency,retail,furniture and home furnishings manufacturing,"bermuda, australia, gibraltar, aruba, chile",low,low,high
+serv352,service,market entry strategy,retail,"postal services, service industry machinery manufacturing, leisure and travel","georgia, mongolia, jordan, liechtenstein",medium,low,low
+pro353,product,product innovation labs,cultivation,"veterinary, web development, communications equipment manufacturing","morocco, aland islands",medium,medium,high
+pro355,product,product design,cultivation,translation and localization services,"bhutan, sudan",low,high,low
+serv358,service,consumer research,cultivation,audio and video equipment manufacturing,democratic republic of the congo,medium,low,high
+serv360,service,compliance services,accessories,"venture capital, farming","bouvet island, indonesia, guernsey and alderney",medium,low,high
+serv362,service,legal representation,recreational,metal treatments,"latvia, haiti, palestinian territory occupied, belize, south georgia, united arab emirates",high,low,high
+serv364,service,retail store chain,marketing,"paper and paper products, dentists, medical practice","switzerland, uganda, austria, guinea-bissau, american samoa",low,low,low
+serv366,service,medical research,technology,"oil and coal product manufacturing, service learning and volunteer, embedded software products",mongolia,high,medium,high
+serv368,service,industry leadership development,education,"household appliance manufacturing, civic and social organization","albania, angola, indonesia, estonia, moldova, timor-leste",high,high,medium
+serv370,service,industry networking,education,"health and human services, robotics, oil and gas equipment and services",jamaica,medium,medium,medium
+pro371,product,product design,medical,"medical distribution, alternative dispute resolution",south sudan,high,high,medium
+pro373,product,product innovation,education,"aviation and aerospace component manufacturing, data security software products, online publishing",haiti,high,low,high
+serv376,service,market entry strategy,technology,"hospitality, pollution and treatment controls","gambia the, burkina faso, uruguay, croatia, maldives, bangladesh",medium,medium,high
+pro377,product,retail merchandising,recreational,logistics and supply chain,saudi arabia,medium,low,medium
+pro379,product,product safety testing,retail,"water, sewage and waste management, packaging and containers",trinidad and tobago,medium,low,medium
+pro381,product,retail pos systems,accessories,real estate - development,"martinique, andorra, timor-leste, austria",high,low,high
+pro383,product,product innovation labs,processing,"libraries, media, glass product manufacturing",central african republic,medium,medium,medium
+pro385,product,product innovation labs,accessories,lodging,"comoros, jamaica, south georgia, aruba, grenada, thailand",high,low,low
+serv388,service,workforce diversity initiatives,retail,chemical raw materials manufacturing,"bhutan, martinique, mozambique",high,low,high
+serv390,service,marketing agency,retail,"reit - office, paper","zambia, botswana, namibia, switzerland, aland islands",high,medium,high
+serv392,service,legal compliance training,processing,"civic and social organization, optometrists","marshall islands, luxembourg, russia",low,low,low
+serv394,service,insurance services,cultivation,social organizations,"thailand, united kingdom, lebanon",low,high,high
+serv396,service,advocacy campaign management,medical,"government relationship services, insurance brokers, wholesale construction materials",jersey,low,medium,medium
+serv398,service,legal advocacy,accessories,"fashion accessories manufacturing, sporting goods","new zealand, aland islands, british indian ocean territory",high,high,high
+serv400,service,investment banking,recreational,"climate technology product manufacturing, breweries, food and beverage services","tanzania, anguilla, antarctica, andorra",medium,high,medium
+pro401,product,product testing,medical,"retail technology, wholesale fuel","bhutan, grenada, marshall islands, namibia, guyana",medium,high,medium
+serv404,service,retail inventory management,processing,"glass, ceramics and concrete, network security, insurance",azerbaijan,low,low,medium
+serv406,service,waste management solutions,technology,"amusement parks and arcades, travel agencies","uzbekistan, algeria",high,low,high
+serv408,service,import and export services,recreational,"commercial and industrial machinery maintenance, real estate, book and periodical publishing",greece,low,high,low
+serv410,service,consumer rights protection,compliance,savings institutions,"puerto rico, guinea",low,high,medium
+serv412,service,legal compliance training,compliance,"armed forces, digital accessibility services","sudan, botswana, czech republic, sweden",low,low,medium
+serv414,service,workforce training,processing,"customer service, security and protection services, primary and secondary education",latvia,high,low,medium
+pro415,product,farming equipment,technology,"wireless, agriculture",sierra leone,medium,low,high
+pro417,product,cbd product manufacturing,marketing,"home improvement retail, hotels and motels, salvage and demolition",guyana,medium,high,high
+serv420,service,workforce diversity initiatives,education,utilities - independent power producers,"antigua and barbuda, malta, haiti, saint lucia, germany",low,low,medium
+serv422,service,wholesale distribution,cultivation,"semiconductor equipment and materials, management consulting, wholesale consumer electronics","christmas island, aland islands, austria, germany, montenegro",medium,medium,high
+pro423,product,product innovation labs,retail,desktop computing software products,"benin, fiji islands, togo, cambodia",low,high,low
+pro425,product,legal compliance software,medical,"broadcasting - radio, surveying and mapping","spain, mongolia, botswana",low,high,medium
+pro427,product,trade publication,processing,"horticulture, human resources services, non-profit organizations","cayman islands, senegal",low,low,low
+pro429,product,product safety testing,retail,"security and commodity brokerage, waste management, theatrical companies",albania,medium,medium,high
+serv432,service,consumer safety programs,technology,"credit intermediation, photography, travel agencies","australia, kenya, vanuatu, cambodia",high,medium,medium
+serv434,service,research collaboration,accessories,"philanthropy, bars, taverns and nightclubs, ngos","cayman islands, congo, china, south africa",medium,high,high
+serv436,service,real estate services,education,"sports, wind electric power generation",luxembourg,high,medium,medium
+serv438,service,blockchain technology,processing,computer networking,"congo, maldives, saint pierre and miquelon, bosnia and herzegovina",medium,high,low
+pro439,product,product design,retail,"sanitation services, insurance - specialty","algeria, haiti, dominican republic, tanzania",low,medium,high
+serv442,service,real estate services,recreational,savings and cooperative banks,"kosovo, burundi, tuvalu, barbados, ethiopia, bosnia and herzegovina",low,medium,high
+serv444,service,retail analytics,processing,"sports and athletic, sound recording, airlines","kazakhstan, cape verde, anguilla, australia, trinidad and tobago",high,high,medium
+serv446,service,public policy advocacy,compliance,"reit - diversified, glass, ceramics and concrete, recreational vehicles","australia, saint kitts and nevis",medium,high,medium
+pro447,product,product branding,processing,"security system services, beverage manufacturing, event planning","armenia, malaysia, saint helena, guam, seychelles, thailand",medium,low,low
+serv450,service,legal representation,retail,"metal fabrication, pharmaceutical manufacturing","croatia, zimbabwe",medium,low,high
+pro451,product,extraction and processing,accessories,thermal coal,guernsey and alderney,high,low,high
+pro453,product,product supply chain transparency,processing,"electronic gaming and multimedia, recycling","christmas island, saint vincent and the grenadines, libya",low,medium,medium
+pro455,product,product testing,compliance,"chemical manufacturing, rubber product manufacturing",afghanistan,medium,low,high
+pro457,product,product design,medical,credit services,"nigeria, south sudan, man (isle of), saint vincent and the grenadines, cape verde",medium,high,high
+serv460,service,blockchain technology,processing,"safety, farming, commercial real estate","montserrat, guinea, western sahara, bahrain, estonia",high,high,high
+pro461,product,packaging solutions,education,administration of justice,"portugal, syria, guernsey and alderney, pitcairn island",low,medium,high
+pro463,product,retail merchandising,cultivation,public policy,"taiwan, north korea, zambia, estonia, heard island and mcdonald islands, puerto rico",low,medium,low
+pro465,product,product branding,education,biotechnology,"italy, pakistan",medium,medium,low
+pro467,product,product supply chain transparency,marketing,"performing arts, telecom services","peru, saint-barthelemy, indonesia",high,low,medium
+serv470,service,blockchain technology,compliance,"sporting goods, media and telecommunications","albania, burundi, ghana",low,medium,medium
+pro471,product,product development,compliance,"online media, screenwriters",cape verde,low,low,high
+serv474,service,legal precedent research,recreational,"internet, service industry machinery manufacturing, computer hardware manufacturing","lebanon, russia, montenegro",medium,high,high
+serv476,service,consulting services,retail,"oil and gas equipment and services, tutoring, cosmetology and barber schools","guatemala, mali, fiji islands, guinea, paraguay",medium,medium,medium
+serv478,service,technology integration,medical,"alternative fuel vehicle manufacturing, api endpoint","equatorial guinea, moldova, senegal, denmark, tajikistan, egypt",low,high,high
+serv480,service,retail inventory management,compliance,"tools and accessories, diversified industrials, mortgage finance","tajikistan, iraq, ukraine",medium,medium,high
+serv482,service,investment firm,recreational,"construction, aviation and aerospace",uganda,low,high,low
+pro483,product,health and wellness products,medical,"personal care, reit - industrial","nigeria, france, madagascar",medium,medium,high
+pro485,product,product design,technology,"appliances, electrical and electronics manufacturing","tuvalu, nigeria",high,high,low
+pro487,product,product supply chain transparency,compliance,medical devices,togo,low,medium,high
+pro489,product,cbd product manufacturing,education,"museums, climate technology product manufacturing, farm and heavy construction machinery","canada, sri lanka",high,medium,medium
+pro491,product,product certification,compliance,"food and beverage manufacturing, tobacco","lesotho, hungary, martinique",high,low,high
+serv494,service,wholesale distribution,technology,"reit - diversified, utilities, reit - industrial","antarctica, finland",high,medium,medium
+serv496,service,consumer safety programs,medical,museums,"pakistan, kosovo, trinidad and tobago",medium,low,medium
+pro497,product,product recycling programs,technology,"urban planning, medical device","british indian ocean territory, suriname, cook islands",low,high,medium
+serv500,service,market research,marketing,"biomass electric power generation, paper and forest products, accessible hardware manufacturing","north korea, qatar, japan, new zealand, south georgia, mauritius",high,high,high
+serv502,service,financial forecasting,retail,museums and institutions,"iraq, pitcairn island, turks and caicos islands, bhutan, afghanistan",medium,low,medium
+pro503,product,consumer product reviews,accessories,"staffing and recruiting, it systems operations and maintenance, motion pictures and film","madagascar, guam, wallis and futuna islands",low,high,high
+serv506,service,industry training programs,accessories,"sports organizations, furnishings, recreational vehicles","cote d'ivoire (ivory coast), guadeloupe",medium,high,medium
+serv508,service,advocacy campaign management,recreational,"alternative medicine, it system custom software development","monaco, tajikistan, afghanistan, vatican city state (holy see), burkina faso, montserrat",low,high,high
+pro509,product,retail pos systems,recreational,"conglomerates, internet publishing","saint-barthelemy, namibia",medium,high,high
+serv512,service,blockchain solutions,technology,emergency and relief services,"cambodia, cameroon, benin, iran, japan",low,medium,medium
+pro513,product,product certification,recreational,"real estate - general, pollution and treatment controls, funds and trusts","burkina faso, mali, eritrea",high,medium,high
+serv516,service,marketing agency,marketing,"online and mail order retail, writers","new zealand, united states minor outlying islands, mauritius, aruba",low,high,high
+pro517,product,health and wellness products,retail,wholesale construction materials,"palestinian territory occupied, papua new guinea, chile, israel, mauritius, colombia",high,high,medium
+serv520,service,regulatory compliance,technology,measuring and control instrument manufacturing,saint lucia,low,low,high
+pro521,product,technology patents,education,"packaged foods, infrastructure operations","saint helena, wallis and futuna islands, rwanda, fiji islands, south korea",low,medium,medium
+pro523,product,product development,retail,"nonprofit organization management, drug manufacturers - major","nepal, faroe islands, sint maarten (dutch part)",medium,high,high
+pro525,product,product design,compliance,"web design and development, medical distribution","comoros, south sudan, cyprus, yemen, armenia",medium,high,high
+pro527,product,product safety testing,compliance,insurance agencies and brokerages,"norfolk island, christmas island",low,medium,low
+pro529,product,product design,compliance,"printing services, online media, internet retail","gibraltar, turkmenistan",low,high,medium
+pro531,product,retail merchandising,recreational,"insurance and employee benefit funds, building materials","puerto rico, ethiopia, democratic republic of the congo, cote d'ivoire (ivory coast), monaco, liechtenstein",low,high,high
+pro533,product,product compliance auditing,recreational,"travel services, fine arts school","mali, malaysia, liechtenstein, kenya, papua new guinea",high,low,high
+pro535,product,product innovation labs,processing,sound recording industries,"norfolk island, south sudan, cuba, gambia the",low,low,high
+serv538,service,legal dispute resolution,retail,"investment advice, package/freight delivery, computer hardware","argentina, united states minor outlying islands, cote d'ivoire (ivory coast), tanzania",medium,high,high
+serv540,service,legal advocacy,accessories,"service industry machinery manufacturing, building materials","colombia, samoa",low,medium,high
+serv542,service,supply chain management,retail,"climate technology product manufacturing, online audio and video media, fashion","belize, puerto rico, brazil, namibia, malta, greenland",medium,medium,low
+serv544,service,import and export services,marketing,"shell companies, household services, paint, coating and adhesive manufacturing","gambia the, singapore, south sudan, trinidad and tobago",medium,high,high
+serv546,service,consumer education programs,retail,"short story writers, outsourcing/offshoring, distilleries","lithuania, sudan",medium,high,high
+pro547,product,retail merchandising,processing,"fisheries, capital markets, residential mental health",kazakhstan,medium,low,low
+serv550,service,compliance auditing,compliance,"museums and institutions, railroad manufacture, semiconductors","united states minor outlying islands, sierra leone, the bahamas, finland",high,high,high
+serv552,service,industry networking,compliance,biotechnology,"el salvador, spain, bolivia",high,low,high
+pro553,product,product ingredient sourcing,compliance,"travel and tourism, freight, railroad equipment manufacturing",burundi,high,high,low
+serv556,service,community engagement,medical,"home improvement retail, advertising agencies, education","seychelles, western sahara, maldives, netherlands, pitcairn island, saint lucia",low,high,medium
+serv558,service,cultivation expertise,accessories,"electric power transmission, control and distribution, nonmetallic mineral mining","south sudan, hungary, gibraltar, montenegro, croatia",high,low,medium
+serv560,service,consumer rights protection,medical,"fisheries, video post-production","papua new guinea, south georgia, andorra",low,low,high
+pro561,product,legal compliance software,accessories,airlines,"anguilla, belarus, jamaica",high,medium,low
+serv564,service,waste management solutions,compliance,"farming, ranching and forestry, biotechnology research","iceland, niue, french southern territories, palau",medium,low,high
+serv566,service,customer support services,compliance,"specialty food stores, emergency and relief services",cameroon,medium,high,medium
+pro567,product,packaging solutions,compliance,"wholesale machinery, bed and breakfast, hostels and homestays","bulgaria, serbia, liechtenstein, reunion",high,medium,low
+serv570,service,trade association,accessories,"animal feed manufacturing, automotive, specialty food stores","laos, india, british indian ocean territory",low,medium,low
+pro571,product,product branding,compliance,non-profit organizations,"mongolia, botswana, panama, north korea, burundi, armenia",low,high,high
+serv574,service,public relations,medical,"medical distribution, waste management",tanzania,low,high,high
+serv576,service,consulting services,technology,"advertising, health information services, food and beverage manufacturing","india, turkmenistan, namibia",high,medium,high
+serv578,service,cultural and heritage preservation,marketing,"shoes manufacturing, fire protection, family planning centers","bulgaria, australia",low,high,medium
+pro579,product,product safety testing,processing,renewable energy,"uganda, kyrgyzstan",low,high,high
+pro581,product,retail pos systems,medical,wholesale business supplies and equipment,"rwanda, bhutan",medium,high,low
+pro583,product,health and wellness products,education,"non-profit organization management, railroad equipment manufacturing, reit - residential","gambia the, saint-martin (french part), gabon, laos, greenland",medium,high,high
+pro585,product,farming equipment,education,"real estate - development, online audio and video media, renewable energy power generation","kazakhstan, kosovo, sweden, china",low,high,high
+pro587,product,retail merchandising,accessories,"haulage, diagnostics and research","cameroon, sao tome and principe, bahrain, uzbekistan",medium,high,low
+pro589,product,extraction and processing,technology,"storage, nanotechnology","australia, laos, slovenia, peru, turks and caicos islands",low,low,high
+pro591,product,trade publication,retail,"boilers, tanks and shipping container manufacturing","jordan, spain, cook islands, israel, hungary, south africa",high,low,low
+serv594,service,quality control,compliance,"communications, physical, occupational and speech therapists",andorra,low,low,high
+serv596,service,workforce training,cultivation,"security systems services, museums and institutions","brunei, kyrgyzstan, wallis and futuna islands, cameroon",medium,medium,high
+pro597,product,health and wellness products,compliance,it system testing and evaluation,"vatican city state (holy see), reunion, nigeria, democratic republic of the congo",high,high,medium
+serv600,service,legal dispute resolution,cultivation,"uranium, sporting goods stores, pharmaceutical retailers","sao tome and principe, guyana, bulgaria, mongolia",high,medium,high
+serv602,service,security services,cultivation,"government, wood products, structural clay product manufacturing","timor-leste, democratic republic of the congo, saint-barthelemy, western sahara, china",high,low,medium
+pro603,product,retail merchandising,education,"commercial and industrial equipment rental, fashion and beauty, operations consulting","lebanon, north macedonia, mexico, virgin islands (british), afghanistan, guernsey and alderney",high,high,low
+serv606,service,consumer safety programs,processing,"museums, historical sites and zoos, rubber product manufacturing, electronics","china, peru, lithuania",low,medium,high
+serv608,service,market entry strategy,marketing,short story writers,israel,medium,high,low
+pro609,product,extraction and processing,compliance,"drug manufacturers - major, financial services, shoes manufacturing",saint-barthelemy,high,medium,high
+serv612,service,legal compliance software,retail,"climate technology product manufacturing, electronics and computer distribution","guernsey and alderney, latvia",medium,medium,high
+serv614,service,advocacy organization,medical,"discount stores, outpatient care centers","hungary, liberia, uzbekistan, kazakhstan, british indian ocean territory",low,low,high
+pro615,product,health and wellness products,compliance,"water, railroads, electric lighting equipment manufacturing","estonia, mauritania, sierra leone, haiti, azerbaijan",medium,low,low
+pro617,product,product compliance auditing,processing,"aluminum, resorts and casinos, design services",sweden,low,medium,medium
+serv620,service,tourism services,compliance,"building structure and exterior contractors, outpatient care centers","denmark, aruba, papua new guinea, senegal, france",medium,high,high
+serv622,service,legal representation,retail,"medical instruments and supplies, fine art",syria,high,low,high
+serv624,service,customer support services,accessories,"airlines and aviation, climate technology product manufacturing, coal","cook islands, oman, madagascar",medium,high,high
+pro625,product,product certification,cultivation,"tools and accessories, reit - hotel and motel, reit - office","united states minor outlying islands, bouvet island, british indian ocean territory, democratic republic of the congo, iraq",medium,medium,low
+serv628,service,waste management solutions,medical,human resources services,"greece, sri lanka, north macedonia, kiribati, niger, switzerland",low,medium,high
+pro629,product,product development,processing,consumer goods,"sao tome and principe, north korea",medium,low,low
+pro631,product,product safety testing,cultivation,"banks - regional - us, it system custom software development, dairy","jersey, equatorial guinea",low,high,medium
+serv634,service,legal dispute resolution,education,"racetracks, beverages - soft drinks, electrical and electronic manufacturing",belgium,low,low,medium
+serv636,service,public policy advocacy,processing,retail products,"new zealand, saint helena",low,medium,high
+pro637,product,health and wellness products,processing,vocational training,"vietnam, latvia, western sahara, costa rica",medium,medium,high
+pro639,product,product innovation labs,recreational,"electronics and computer distribution, aluminum","azerbaijan, lithuania, samoa",medium,low,high
+serv642,service,advocacy organization,cultivation,"seafood product preparation and packaging, metal fabrication, climate data and analytics","sudan, cape verde, nepal, rwanda, turkey, syria",high,high,medium
+serv644,service,advocacy campaign management,recreational,security system services,"colombia, ethiopia, taiwan, western sahara, aland islands",medium,high,high
+pro645,product,product supply chain transparency,medical,"golf courses and country clubs, machinery, storage",iran,low,low,medium
+serv648,service,sustainability initiatives,medical,"emergency and relief services, aerospace and defense","samoa, trinidad and tobago",high,high,medium
+serv650,service,industry standards development,marketing,"environmental services, supermarkets","colombia, greece, costa rica, peru",medium,low,low
+pro651,product,product safety testing,retail,"glass, ceramics and concrete, computer games, sound recording",angola,low,medium,medium
+pro653,product,product safety testing,marketing,"reit - industrial, semiconductor equipment and materials","turks and caicos islands, namibia, maldives, azerbaijan",high,low,low
+pro655,product,product innovation labs,accessories,"water, asset management, wine and spirits",micronesia,high,low,medium
+pro657,product,consumer product reviews,education,medical instruments and supplies,"san marino, cuba",low,high,high
+pro659,product,retail pos systems,retail,"retail trade, screenwriters, insurance carriers","cote d'ivoire (ivory coast), saint pierre and miquelon, czech republic, liechtenstein, mauritius, guinea",high,high,medium
+pro661,product,technology patents,accessories,"recreational facilities, media","saudi arabia, british indian ocean territory, french guiana, jordan",low,high,high
+pro663,product,product testing,marketing,"design, computer hardware, specialty finance","andorra, malta",medium,low,low
+pro665,product,product branding,processing,"utilities - regulated electric, hospital and health care",cambodia,high,high,low
+pro667,product,farming equipment,retail,"recreational facilities, wholesale business supplies and equipment, chemical","saint-barthelemy, united kingdom",high,high,high
+serv670,service,financial risk management,cultivation,"metal treatments, information technology and services, metal one mining",ethiopia,low,high,medium
+pro671,product,technology patents,cultivation,"postal services, data storage, ground passenger transportation","united arab emirates, thailand",low,medium,medium
+pro673,product,extraction and processing,education,safety,"south sudan, azerbaijan, italy, cook islands",medium,medium,medium
+serv676,service,educational outreach,recreational,scenic and sightseeing transportation,"marshall islands, cura\u00e7ao, monaco, ukraine, argentina, zambia",high,high,low
+pro677,product,product innovation,marketing,"wholesale fuel, media and telecommunications, urban planning","portugal, virgin islands (us), malaysia, ethiopia",medium,low,high
+serv680,service,insurance underwriting,cultivation,"operations consulting, oil and gas integrated","mozambique, cyprus",low,high,medium
+pro681,product,product testing,retail,security and protection services,"belize, solomon islands",medium,low,medium
+pro683,product,product design,compliance,"shipping, resorts and casinos","lesotho, rwanda, cayman islands, bhutan, svalbard and jan mayen islands",low,high,medium
+serv686,service,public relations,technology,business equipment and supplies,"taiwan, antigua and barbuda, egypt, latvia",low,high,low
+pro687,product,seed genetics research,marketing,"metal valve, ball and roller manufacturing",austria,high,low,medium
+serv690,service,retail customer loyalty programs,recreational,"postal services, media production","vietnam, latvia, trinidad and tobago, senegal, micronesia, nigeria",high,low,high
+serv692,service,consumer education programs,processing,"internet retail, book and periodical publishing","lebanon, ireland",low,low,medium
+serv694,service,insurance underwriting,education,"public relations, facilities services, artists and writers","djibouti, cuba, mozambique, guam",low,low,high
+serv696,service,research and development,recreational,home improvement retail,"panama, nigeria, mayotte, russia",low,medium,low
+pro697,product,product ingredient sourcing,retail,"advertising, civic and social organization",cura\u00e7ao,low,medium,low
+serv700,service,advocacy organization,accessories,staffing and recruiting,tokelau,high,high,medium
+serv702,service,education and training,technology,"magnetic and optical media manufacturing, government relations","united states minor outlying islands, yemen",low,low,low
+pro703,product,retail merchandising,processing,transportation/trucking/railroad,"malta, cyprus, guyana",low,high,high
+serv706,service,investment banking,marketing,"advertising, engines and power transmission equipment manufacturing, food and beverage services","saint kitts and nevis, zambia, bahrain, sint maarten (dutch part), tajikistan",low,medium,high
+serv708,service,educational content creation,accessories,"web design and development, aluminum, computer and network security","grenada, slovenia, niue, united states minor outlying islands, san marino, guatemala",low,high,high
+pro709,product,health and wellness products,technology,"vocational training, pharmaceuticals","moldova, venezuela, guatemala, tonga",high,medium,high
+pro711,product,seed genetics research,processing,fine arts school,"tonga, antarctica, portugal, japan, ecuador",low,medium,high
+pro713,product,packaging solutions,compliance,"computer networking, motor vehicle parts manufacturing, industrial distribution","panama, denmark",high,low,high
+pro715,product,technology patents,cultivation,"internet, diagnostics and research, market research","taiwan, lithuania, haiti, panama, russia, azerbaijan",high,low,low
+serv718,service,industry analytics,marketing,"electrical and electronic manufacturing, department stores, public health",iraq,high,low,high
+serv720,service,retail analytics,technology,"asset management, executive search services, museums and institutions","myanmar, monaco, kyrgyzstan, andorra, northern mariana islands, yemen",low,low,low
+pro721,product,technology patents,recreational,"e-learning providers, information technology and services, airlines/aviation","czech republic, bhutan, dominica, central african republic, grenada, ukraine",medium,low,low
+pro723,product,product recycling programs,education,"aerospace, equipment, personal care services","laos, guinea-bissau, mauritius, sao tome and principe",low,medium,low
+pro725,product,farming equipment,processing,"periodical publishing, weapons","mozambique, germany, mauritius",low,high,medium
+serv728,service,industry training programs,recreational,"electrical and electronic manufacturing, data storage, water power generation","eswatini, reunion, argentina, north macedonia",medium,low,low
+serv730,service,community engagement,marketing,"tour operators, accessible hardware manufacturing, information technology services",saint-martin (french part),medium,medium,low
+serv732,service,technology incubator,recreational,medical practice,"czech republic, new caledonia, mayotte, san marino, nicaragua",high,high,high
+serv734,service,import and export services,technology,specialty business services,lebanon,high,medium,high
+serv736,service,industry analytics,processing,"information services, mortgage finance","sint maarten (dutch part), syria, ukraine",low,high,low
+pro737,product,packaging solutions,cultivation,"building products and equipment, video post-production, computer and network security","malta, tonga, belize, nicaragua, uruguay, south korea",low,low,medium
+serv740,service,technology incubator,recreational,"social organizations, residential building construction","malaysia, armenia",low,low,low
+serv742,service,market forecasting,marketing,"weapons, ambulance services","antarctica, seychelles, heard island and mcdonald islands, czech republic, western sahara, equatorial guinea",high,low,medium
+pro743,product,trade publication,medical,"banks - diversified, performing arts, healthcare","north korea, french southern territories, french polynesia, comoros, democratic republic of the congo",high,medium,medium
+pro745,product,product supply chain transparency,education,"beverage manufacturing, oil and gas midstream",malaysia,low,medium,high
+pro747,product,retail pos systems,cultivation,"glass, ceramics and concrete, farm and construction equipment","belgium, mongolia, saudi arabia",low,low,high
+pro749,product,product supply chain transparency,recreational,"computer networking, it systems operations and maintenance","south africa, martinique, bahrain, turks and caicos islands",medium,low,low
+pro751,product,farming equipment,accessories,"newspaper publishing, aviation and aerospace component manufacturing","sri lanka, spain, north macedonia",high,medium,high

@@ -1,0 +1,42 @@
+import json
+education_list = [
+    "BS in Computer Science", "BS in Engineering", "BS in Biology", "BS in Psychology", "BS in Business Administration",
+    "BS in Mathematics", "BS in Economics", "BS in Nursing", "BS in Chemistry", "BS in Physics",
+    "BS in Environmental Science", "BS in Education", "BS in Sociology", "BS in Communications", "BS in English Literature",
+    "BS in History", "BS in Art", "BS in Agriculture", "BS in Botany", "BS in Philosophy", "BS in Political Science",
+    "BS in Anthropology", "BS in Geology", "BS in Astronomy", "BS in Public Health", "BS in Architecture",
+    "BS in Information Technology", "BS in Graphic Design", "BS in Music", "BS in Theatre", "BS in Film Studies",
+    "BS in Linguistics", "BS in Journalism", "BS in International Relations", "BS in Marketing", "BS in Finance",
+    "BS in Accounting", "BS in Management", "BS in Hospitality Management", "BS in Culinary Arts", "BS in Social Work",
+    "High School Diploma", "High School Graduate", "High School Dropout", "High School Certificate", "High School Equivalency",
+    "High School Vocational Training", "Associate Degree in Computer Science", "Associate Degree in Engineering",
+    "Associate Degree in Biology", "Associate Degree in Psychology", "Associate Degree in Business Administration",
+    "Associate Degree in Mathematics", "Associate Degree in Economics", "Associate Degree in Nursing", "Associate Degree in Chemistry",
+    "Associate Degree in Physics", "Associate Degree in Environmental Science", "Associate Degree in Education",
+    "Associate Degree in Sociology", "Associate Degree in Communications", "Associate Degree in English Literature",
+    "Associate Degree in History", "Associate Degree in Art", "Associate Degree in Agriculture", "Associate Degree in Botany",
+    "MS in Computer Science", "MS in Engineering", "MS in Biology", "MS in Psychology", "MS in Business Administration",
+    "MS in Mathematics", "MS in Economics", "MS in Nursing", "MS in Chemistry", "MS in Physics",
+    "MS in Environmental Science", "MS in Education", "MS in Sociology", "MS in Communications", "MS in English Literature",
+    "MS in History", "MS in Art", "MS in Agriculture", "MS in Botany", "MS in Philosophy", "MS in Political Science",
+    "MS in Anthropology", "MS in Geology", "MS in Astronomy", "MS in Public Health", "MS in Architecture",
+    "MS in Information Technology", "MS in Graphic Design", "MS in Music", "MS in Theatre", "MS in Film Studies",
+    "MS in Linguistics", "MS in Journalism", "MS in International Relations", "MS in Marketing", "MS in Finance",
+    "MS in Accounting", "MS in Management", "MS in Hospitality Management", "MS in Culinary Arts", "MS in Social Work",
+    "PhD in Computer Science", "PhD in Engineering", "PhD in Biology", "PhD in Psychology", "PhD in Business Administration",
+    "PhD in Mathematics", "PhD in Economics", "PhD in Nursing", "PhD in Chemistry", "PhD in Physics",
+    "PhD in Environmental Science", "PhD in Education", "PhD in Sociology", "PhD in Communications",
+    "PhD in English Literature", "PhD in History", "PhD in Art", "PhD in Agriculture", "PhD in Botany",
+    "PhD in Philosophy", "PhD in Political Science", "PhD in Anthropology", "PhD in Geology", "PhD in Astronomy",
+    "PhD in Public Health", "PhD in Architecture", "PhD in Information Technology", "PhD in Graphic Design", "PhD in Music",
+    "PhD in Theatre", "PhD in Film Studies", "PhD in Linguistics", "PhD in Journalism", "PhD in International Relations",
+    "PhD in Marketing", "PhD in Finance", "PhD in Accounting", "PhD in Management", "PhD in Hospitality Management",
+    "PhD in Culinary Arts", "PhD in Social Work"
+]
+
+data = {"education_list": education_list}
+
+with open("data/education_list.json", "w") as json_file:
+    json.dump(data, json_file, indent=4)
+
+print("Data has been written to education_list.json")
